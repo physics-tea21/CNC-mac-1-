@@ -15,3 +15,18 @@ I have just exited the research phase, although in all honesty even as I begin t
 This is what I have done so far: https://docs.google.com/document/d/1guQ0EIYpnIy_ylk_-7W_6XR--R1wjIKXg_Th8CZ3E4M/edit?tab=t.0![Screenshot 2025-11-04 at 7.33.50 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--24f414ecddc6c820f6eafb89ff7b31f57a7b7500/Screenshot%202025-11-04%20at%207.33.50%E2%80%AFAM.png)
    
 
+## 11/5/2025 - Morning glory design.   
+
+I woke up today and started working on my design- not because I initially wanted to, or felt motivated to work on this project first thing in the morning, but because I realize that consistency is key. For the past week (since I started this project), I have worked at least 30 minutes everyday. This morning I worked for ~1.5 hours, last night I worked on it for about an hour. ![Screenshot 2025-11-05 at 7.46.06 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODYzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--60c8f7be947e47b6ccdda7095d54f9714474733c/Screenshot%202025-11-05%20at%207.46.06%E2%80%AFAM.png)
+
+
+By now, I have more or less finished the research stage, have finished basic design sketches and have a good feel for what I will be designing on Fusion360 tomorrow
+
+
+Below is a progression of my design, sketches 5,6,7 are more or less the same. I have modeled this after the A1 FDM printer, but it has the same sort of rough outline as the Sainsmart 3020 Pro Ultra (a desktop CNC machine).  
+[IMG_5622](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODYzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--59752754a877c4947f4fd9c77820b057ddc6ef14/IMG_5622.HEIC)
+
+Please let me know if you have any suggestions, I would love to hear them!  
+
+   
+

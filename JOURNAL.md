@@ -30,3 +30,12 @@ Please let me know if you have any suggestions, I would love to hear them!
 
    
 
+## 11/7/2025 - A change of plans   
+
+Hi, for the past 2 days I toiled away at my CNC designs on paper. This morning I decided to scrap all that work for a parallel axis tripteron CNC machine design. While I'm not entirely sure this will work better than the traditional gantree system, but it certainly look cool! I've come to learn to value asthetics- although at this point I may be taking it too far... 
+
+The design is inspired by this video: https://www.youtube.com/watch?v=6EtXycVGJg4
+
+Today I worked for about an hour. ![Screenshot 2025-11-07 at 7.19.35 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA5NywicHVyIjoiYmxvYl9pZCJ9fQ==--5004ccea77889a7aacc7737d91cf81b98fa255e9/Screenshot%202025-11-07%20at%207.19.35%E2%80%AFAM.png)
+   
+
